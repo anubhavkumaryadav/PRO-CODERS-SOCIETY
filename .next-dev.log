@@ -1,0 +1,94 @@
+
+> dead-coders-society@0.1.0 dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+   ▲ Next.js 15.5.18
+   - Local:        http://127.0.0.1:3000
+   - Network:      http://127.0.0.1:3000
+   - Environments: .env
+
+ ✓ Starting...
+ ✓ Ready in 4.1s
+ ○ Compiling /middleware ...
+ ✓ Compiled /middleware in 923ms (177 modules)
+ ○ Compiling /controlroomadmin ...
+ ✓ Compiled /controlroomadmin in 11.2s (1728 modules)
+ GET /controlroomadmin 200 in 245ms
+ GET /controlroomadmin 200 in 4320ms
+ GET /controlroomadmin 200 in 1537ms
+ ✓ Compiled in 945ms (695 modules)
+ GET /controlroomadmin 200 in 1549ms
+ ✓ Compiled in 819ms (695 modules)
+ GET /controlroomadmin 200 in 1612ms
+ ✓ Compiled in 453ms (695 modules)
+ ✓ Compiled in 1502ms (1728 modules)
+ GET /controlroomadmin 200 in 2677ms
+ ✓ Compiled in 579ms (695 modules)
+ ✓ Compiled in 468ms (695 modules)
+ GET /controlroomadmin 200 in 1824ms
+ ✓ Compiled in 398ms (695 modules)
+ GET /controlroomadmin 200 in 1512ms
+ ✓ Compiled in 594ms (695 modules)
+ ✓ Compiled in 1569ms (1728 modules)
+ GET /controlroomadmin 200 in 2258ms
+ ✓ Compiled in 682ms (695 modules)
+ GET /controlroomadmin 200 in 1529ms
+ ✓ Compiled in 456ms (695 modules)
+ GET /controlroomadmin 200 in 1679ms
+ ✓ Compiled in 496ms (695 modules)
+prisma:error Error in PostgreSQL connection: Error { kind: Db, cause: Some(DbError { severity: "FATAL", parsed_severity: Some(Fatal), code: SqlState(E57P01), message: "terminating connection due to administrator command", detail: None, hint: None, position: None, where_: None, schema: None, table: None, column: None, datatype: None, constraint: None, file: Some("postgres.c"), line: Some(3319), routine: Some("ProcessInterrupts") }) }
+ ✓ Compiled in 2.4s (695 modules)
+ ✓ Compiled in 617ms (695 modules)
+ ✓ Compiled in 499ms (695 modules)
+ ✓ Compiled in 440ms (695 modules)
+ ✓ Compiled in 433ms (695 modules)
+ ✓ Compiled in 2.4s (1905 modules)
+ ✓ Compiled in 5.8s (1978 modules)
+ ✓ Compiled in 1553ms (1978 modules)
+ ✓ Compiled in 1071ms (1978 modules)
+ ✓ Compiled in 925ms (1978 modules)
+ ✓ Compiled in 3s (1978 modules)
+ ✓ Compiled in 4.6s (1905 modules)
+ ✓ Compiled in 354ms (695 modules)
+ ✓ Compiled in 1017ms (695 modules)
+ ✓ Compiled in 1725ms (1905 modules)
+ ✓ Compiled in 1096ms (1728 modules)
+ ✓ Compiled in 1245ms (1728 modules)
+ ✓ Compiled in 292ms (695 modules)
+ ✓ Compiled in 737ms (1891 modules)
+ ✓ Compiled in 858ms (1728 modules)
+ ✓ Compiled in 919ms (1728 modules)
+ ✓ Compiled in 1564ms (1730 modules)
+ ✓ Compiled in 886ms (1730 modules)
+ ✓ Compiled in 1130ms (1730 modules)
+ ✓ Compiled in 888ms (1730 modules)
+ ✓ Compiled in 2.5s (1730 modules)
+ ✓ Compiled in 448ms (696 modules)
+ ✓ Compiled in 387ms (696 modules)
+ ✓ Compiled in 1139ms (1730 modules)
+ ✓ Compiled in 889ms (1730 modules)
+ ✓ Compiled in 793ms (1730 modules)
+ GET /controlroomadmin 200 in 1090ms
+ GET /controlroomadmin 200 in 154ms
+ GET /controlroomadmin 200 in 231ms
+ GET /controlroomadmin 200 in 195ms
+ GET /controlroomadmin 200 in 207ms
+ GET /controlroomadmin 200 in 166ms
+ GET /controlroomadmin 200 in 198ms
+ GET /controlroomadmin 200 in 209ms
+ GET /controlroomadmin 200 in 248ms
+ ✓ Compiled in 1295ms (696 modules)
+ ✓ Compiled in 337ms (696 modules)
+ ✓ Compiled in 375ms (696 modules)
+ ✓ Compiled in 318ms (696 modules)
+ ✓ Compiled in 1760ms (1730 modules)
+ ✓ Compiled in 299ms (696 modules)
+ ✓ Compiled in 343ms (696 modules)
+ ✓ Compiled in 1286ms (1730 modules)
+ ✓ Compiled in 979ms (1730 modules)
+ ✓ Compiled in 805ms (1730 modules)
+ ✓ Compiled in 351ms (696 modules)
+ ✓ Compiled in 252ms (696 modules)
+ ✓ Compiled in 266ms (696 modules)
+ ✓ Compiled in 354ms (696 modules)
+[?25h
